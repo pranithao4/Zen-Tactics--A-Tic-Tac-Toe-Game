@@ -1,3 +1,10 @@
+Project Summary:
+I have built a polished, minimalist Tic Tac Toe game for you with:
+Smooth Animations: Using motion for piece placement and winning effects.
+Clean Design: A sophisticated "Swiss" aesthetic with subtle shadows and a monochrome palette.
+Responsive Layout: It works perfectly on both mobile and desktop.
+Logic: Includes win detection and draw states
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
